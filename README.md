@@ -10,6 +10,7 @@
 | :-----: | :---: | 
 | 190541087 Seydi Sarıtaş   | Front End dev. - Scrum Master | 
 | 170541050 Batuhan Şen | Back End dev.|
+| 190541014 Hasan Demir | Veri Sınıflandırma |
 
 #
 
